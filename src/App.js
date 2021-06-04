@@ -12,10 +12,11 @@ export default function App() {
         <img src={logo} className="App-logo img-fluid" alt="logo" />
       </header>
       <main>
-      <Dictionary defaultKeyword= "hygge" />
+      <Dictionary defaultKeyword= "wanderlust" />
       </main>
       </div>
-      <footer className="App-footer"><small>Coded by Blake Davies</small></footer>
+      <footer className="App-footer">
+        <small>This project was coded by Blake Davies, is <a href="https://github.com/blakebdavies/dictionary-app">open-sourced</a> and hosted on <a href="https://eloquent-babbage-8e1acc.netlify.app">Netlify</a></small></footer>
     </div>
   );
 }

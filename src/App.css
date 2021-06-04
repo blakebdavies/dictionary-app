@@ -1,5 +1,6 @@
 body {
-  background-color: #f9f6fe;
+  background-color: #deedf0;
+  font-family: "Raleway", sans-serif;
 }
 a {
   color: #9670f4;
@@ -13,7 +14,7 @@ a {
   margin: 30px 0;
 }
 .App-logo {
-  max-width: 150px;
+  max-width: 300px;
   display: block;
   margin: 0 auto;
 }
