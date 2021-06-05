@@ -16,7 +16,7 @@ export default function App() {
       </main>
       </div>
       <footer className="App-footer">
-        <small>This project was coded by Blake Davies, is <a href="https://github.com/blakebdavies/dictionary-app">open-sourced</a> and hosted on <a href="https://eloquent-babbage-8e1acc.netlify.app">Netlify</a></small></footer>
+        <small>This project was coded by Blake Davies, is <a href="https://github.com/blakebdavies/dictionary-app" target="_blank" rel="noreferrer">open-sourced</a> and hosted on <a href="https://eloquent-babbage-8e1acc.netlify.app" target="_blank" rel="noreferrer">Netlify</a></small></footer>
     </div>
   );
 }

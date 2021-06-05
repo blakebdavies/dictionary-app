@@ -14,13 +14,14 @@ a {
   margin: 30px 0;
 }
 .App-logo {
-  max-width: 300px;
+  max-width: 250px;
   display: block;
   margin: 0 auto;
   filter: drop-shadow(0px 2px rgba(117, 105, 105, 0.5));
 }
 
 .App-footer {
+  font-size: 14px;
   text-align: center;
   margin: 30px 0;
 }
