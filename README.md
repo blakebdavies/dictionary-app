@@ -22,8 +22,7 @@
   <li>API Integration</li>
   <li>Responsive Design</li>
   </ul>
-  <p>I learned so many new things by creating this coding project. My end goal of this project was to create a fully functional dictionary app that included basic features like the definition, part of speech, synonyms, phonetic spelling and (if possible) an audio button and image section. My first step was to create a wireframe on InvisionApp, which you can view below:</p>
-<p>![dictionary-wireframe](https://user-images.githubusercontent.com/81705490/123295107-4f7fd180-d50d-11eb-8db2-53295f31a16e.png)</p>
+  <p>I learned so many new things by creating this coding project. My end goal of this project was to create a fully functional dictionary app that included basic features like the definition, part of speech, synonyms, phonetic spelling and (if possible) an audio button and image section. My first step was to create a wireframe on InvisionApp, which you can view <a href="https://user-images.githubusercontent.com/81705490/123295107-4f7fd180-d50d-11eb-8db2-53295f31a16e.png" target="_blank">here</a>.</p>
 <p>While building this application, I learned how to search for the APIs that were right for getting my desired end result, create specific components, use React Loops, and Use States.</p>
 <p>The main challenges of the project were creating more components, so the application could parse through the different aspects of the API and stay true to the Single Responsibility Principle.I also wanted the audio player of the phonetics to play whilst on the application, rather than open up into a different tab, so installing <code>react-audio-player</code> helped me achieve this goal. </p>
  
