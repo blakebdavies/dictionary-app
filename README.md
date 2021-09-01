@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+<p>
+  <a target="_blank" rel="noopener noreferrer" href="https://eloquent-babbage-8e1acc.netlify.app/">Click here for live demo</a>
+</p>
+<p align="center">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/blakebdavies/portfolio-project/blob/main/images/react-dictionary-app.png">
+   <img src="https://github.com/blakebdavies/portfolio-project/blob/main/images/react-dictionary-app.png?raw=true" width="600" style="max-width:100%";/>
+</a>
+   </p>                                                                                               
+ <h2>React Dictionary App</h2>
+ <p> This is a Reactjs project focused on creating a simple, user-friendly design with seamless word-search functionality.</p>
+ <h2> Installation and Set-up Instructions</h2>
+ <p>Clone down this repository you will need <code>node</code> and <code>npm</code> installed globally on your machine.</p>
+ <h5>Installation</h5>
+ <p><code>npm install</code></p>
+ <h5>To Start Server</h5>
+ <p><code>npm start</code></p>
+ <h2> Reflection</h2>
+ <ul>
+  <li>Single Responsibility Principle</li>
+  <li>React Components</li>
+  <li>React Loops</li>
+  <li>API Integration</li>
+  <li>Responsive Design</li>
+  </ul>
+  <p>I learned so many new things by creating this coding project. My end goal of this project was to create a fully functional dictionary app that included basic features like the definition, part of speech, synonyms, phonetic spelling and (if possible) an audio button and image section. My first step was to create a wireframe on InvisionApp, which you can view <a href="https://user-images.githubusercontent.com/81705490/123295107-4f7fd180-d50d-11eb-8db2-53295f31a16e.png" target="_blank" rel="noopener noreferrer">here</a>.</p>
+<p>While building this application, I learned how to search for the APIs that were right for getting my desired end result, create specific components, use React Loops, and Use States.</p>
+<p>The main challenges of the project were creating more components, so the application could parse through the different aspects of the complex API and stay true to the Single Responsibility Principle. It was also important to me to display the audio player of the phonetics in the most user-friendly and accessible way, so I wanted this elemento play whilst the user was still on the application, rather than this feature opening up into a different tab, so installing <code>react-audio-player</code> helped me achieve this goal. </p>
+ 
+ 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
